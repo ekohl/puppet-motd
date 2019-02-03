@@ -1,3 +1,6 @@
 ---
 rvm: 2.5
-script: bundle exec rake release_checks
+script: bundle exec rake $CHECK
+env:
+  - CHECK=release_checks
+  - CHECK=beaker BEAKER_IS_PE=false
