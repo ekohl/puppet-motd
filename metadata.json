@@ -1,0 +1,9 @@
+{
+  "name": "ekohl-motd",
+  "version": "0.1.0",
+  "author": "ekohl",
+  "summary": "Manage your motd",
+  "license": "MIT",
+  "source": "https://github.com/ekohl/puppet-motd",
+  "dependencies": []
+}
