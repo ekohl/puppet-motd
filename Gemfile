@@ -6,6 +6,7 @@ gem 'puppetlabs_spec_helper'
 
 gem 'beaker'
 gem 'beaker-docker'
+gem 'beaker-vagrant'
 gem 'beaker-module_install_helper'
 gem 'beaker-puppet'
 gem 'beaker-puppet_install_helper'
